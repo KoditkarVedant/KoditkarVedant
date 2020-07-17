@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ideas on Sorting Visalizer
 - 💬 Ask me about .Net Core, DevOps, C#, Docker, ReactJS and Cricket (Sport)
 - ⚡ Fun fact: I can code
+
+![GitHub followers](https://img.shields.io/github/followers/KoditkarVedant?label=Follow%20%40KoditkarVedant&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/vedantkoditkar?style=for-the-badge)
+[![GitHub Sponsor](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge)](https://github.com/sponsors/KoditkarVedant)
+
+<!--
 <hr/>
 <p align="center">
 📫 How to reach me
@@ -22,3 +28,4 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/KoditkarVedant/KoditkarVedant/master/linkedin.svg" width="20" height="20" />
 </a>
 </p>
+-->
