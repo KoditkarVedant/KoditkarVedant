@@ -11,9 +11,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on C#, ASP.NET Core, Docker projects
 - 🤔 I’m looking for help with ideas on Sorting Visalizer
 - 💬 Ask me about .Net Core, DevOps, C#, Docker, ReactJS and Cricket (Sport)
-- 📫 How to reach me: <a href="https://twitter.com/vedantkoditkar" target="_blank" alt="twitter">
+- ⚡ Fun fact: I can code
+<hr/>
+<p align="center">
+📫 How to reach me
+<br/><br/>
+<a href="https://twitter.com/vedantkoditkar" target="_blank" alt="twitter">
   <img src="https://raw.githubusercontent.com/KoditkarVedant/KoditkarVedant/master/twitter.svg" width="20" height="20" />
 </a> <a href="https://www.linkedin.com/in/vedantkoditkar" target="_blank" alt="linkedin">
   <img src="https://raw.githubusercontent.com/KoditkarVedant/KoditkarVedant/master/linkedin.svg" width="20" height="20" />
 </a>
-- ⚡ Fun fact: I can code
+</p>
