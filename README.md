@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about .Net Core, DevOps, C#, Docker, ReactJS and Cricket (Sport)
 - ⚡ Fun fact: I can code
 
-![GitHub followers](https://img.shields.io/github/followers/KoditkarVedant?label=Follow%20%40KoditkarVedant&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/vedantkoditkar?style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/KoditkarVedant?label=Follow%20%40KoditkarVedant&style=for-the-badge)](https://github.com/KoditkarVedant)
+[![Twitter Follow](https://img.shields.io/twitter/follow/vedantkoditkar?style=for-the-badge)](https://twitter.com/vedantkoditkar)
 <!--
 [![GitHub Sponsor](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge)](https://github.com/sponsors/KoditkarVedant)
 -->
