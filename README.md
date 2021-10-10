@@ -5,13 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Sorting Visualizer [link](https://vedant-sorting-visualizer.netlify.app/)
-- 🌱 I’m currently learning Kubernetes
+- 🔭 I’m currently working on [Notion.Net SDK](https://github.com/notion-dotnet/notion-sdk-net) & [Sorting Visualizer](https://vedant-sorting-visualizer.netlify.app/)
+- 🌱 I’m currently learning Kubernetes, AWS and GO
 - 💻 I work at Cornerstone OnDemand - [https://www.cornerstoneondemand.com/](https://www.cornerstoneondemand.com/)
 - 👯 I’m looking to collaborate on C#, ASP.NET Core, Docker projects
-- 🤔 I’m looking for help with ideas on Sorting Visalizer
 - 💬 Ask me about .Net Core, DevOps, C#, Docker, ReactJS and Cricket (Sport)
-- ⚡ Fun fact: I can code
+- ⚡ Fun fact: I can touch my nose with my tongue
 
 [![GitHub followers](https://img.shields.io/github/followers/KoditkarVedant?label=Follow%20%40KoditkarVedant&style=for-the-badge)](https://github.com/KoditkarVedant)
 [![Twitter Follow](https://img.shields.io/twitter/follow/vedantkoditkar?style=for-the-badge)](https://twitter.com/vedantkoditkar)
