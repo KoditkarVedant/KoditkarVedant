@@ -31,6 +31,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" height=64 width=64 />
 </p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KoditkarVedant&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+### You can follow me here
 [![GitHub followers](https://img.shields.io/github/followers/KoditkarVedant?label=Follow%20%40KoditkarVedant&style=for-the-badge)](https://github.com/KoditkarVedant)
 [![Twitter Follow](https://img.shields.io/twitter/follow/vedantkoditkar?style=for-the-badge)](https://twitter.com/vedantkoditkar)
 <!--
