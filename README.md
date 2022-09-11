@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on [Notion.Net SDK](https://github.com/notion-dotnet/notion-sdk-net) & [Sorting Visualizer](https://vedant-sorting-visualizer.netlify.app/)
 - 🌱 I’m currently learning Kubernetes, AWS and GO
-- 💻 I work at Cornerstone OnDemand - [https://www.cornerstoneondemand.com/](https://www.cornerstoneondemand.com/)
+- 💻 I work at <a href="https://www.coupa.com/" target="_blank" alt="Coupa Software">Coupa Software</a>
 - 👯 I’m looking to collaborate on C#, ASP.NET Core, Docker projects
 - 💬 Ask me about .Net Core, DevOps, C#, Docker, ReactJS and Cricket (Sport)
 - ⚡ Fun fact: I can touch my nose with my tongue
